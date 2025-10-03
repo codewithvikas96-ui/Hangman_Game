@@ -12,12 +12,15 @@ Welcome to the classic Hangman game implemented in Python! This is a simple cons
 
 ---
 
+## 🛠️ Technology Used
+- **Python 3**
 
+---
+
+
+
+---
 ## 📸 Preview
-------------------------------------------------------------
- o 
-/|\
-/ \
-------------------------------------------------------------
-p y t h o n
-YOU WIN
+<img width="1919" height="1137" alt="Output" src="https://github.com/user-attachments/assets/587ae048-f564-4b8c-ba89-19d70d926fdb" />
+
+---
