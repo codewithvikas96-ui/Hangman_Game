@@ -26,7 +26,7 @@ git clone https://github.com/codewithvikas96-ui/Hangman_Game.git
 ```bash
 cd Hangman_Game
 ```
-3. Ensure that you have a words.py file containing a list of words
+3. Ensure that you have a words.py file containing a list of words already uploaded (you can also create your own and import the hangman.py file)
 4. Run the application
 ```bash
 python hangman.py
